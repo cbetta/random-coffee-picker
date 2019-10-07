@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "jsonexport": "^2.4.1",
+    "shuffle-array": "^1.0.1",
+    "split-array": "^1.0.1"
+  },
+  "name": "random-coffee-picker",
+  "version": "1.0.0",
+  "description": "Creates a random match from a CSV",
+  "main": "index.js",
+  "repository": "https://github.com/cbetta/random-coffee-picker",
+  "author": "Cristiano Betta <cbetta@box.com>",
+  "license": "MIT",
+  "scripts": {
+    "match": "node index.js"
+  },
+  "private": true
+}
